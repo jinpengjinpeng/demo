@@ -1,0 +1,14 @@
+{
+    "name": "jinpengjinpeng/demo",
+    "description": "text",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "jinpeng",
+            "email": "823564099@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
